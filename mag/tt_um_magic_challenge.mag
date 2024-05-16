@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1711895535
+timestamp 1715866809
 << metal1 >>
 rect 24704 18960 24824 18966
 rect 24472 18840 24704 18960
@@ -166,10 +166,10 @@ rect 26896 0 27016 2227
 rect 37272 1366 37392 18840
 rect 31312 1246 37392 1366
 rect 31312 0 31432 1246
-use challenge  challenge_0 ~/work/asic-workshop/shuttle-2404/magic-challenge/mag
-timestamp 1711895535
+use challenge  challenge_0 ~/projects/magic_challenge/mag
+timestamp 1715866809
 transform 1 0 24307 0 1 2986
-box -1780 -796 8912 14998
+box -1780 -796 8850 14998
 << labels >>
 flabel metal4 s 30974 44952 31034 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input
